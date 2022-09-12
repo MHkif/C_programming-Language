@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+// Hi
 /* 
 
  - Vous pouvez utiliser ces conditions pour effectuer différentes actions pour différentes décisions.
