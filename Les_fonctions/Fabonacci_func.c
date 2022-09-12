@@ -7,11 +7,13 @@ int fib(int n);
 
 
 int main(){
-    int n
+    
+    int n;
     printf("Entrer le nomber de terms :  ");
     scanf("%d", &n);
     fib(n);
-        return 0;
+
+    return 0;
 
 }
 
