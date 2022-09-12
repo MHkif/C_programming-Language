@@ -1,14 +1,14 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+// Hi
 /* 
 
  - Vous pouvez utiliser ces conditions pour effectuer diff�rentes actions pour diff�rentes d�cisions.
 
  - C contient les instructions conditionnelles suivantes�:
 
-	Utilisez if pour specifier un bloc de code � ex�cuter, si une condition sp�cifi�e est vraie
-	Utilisez else pour specifier un bloc de code � ex�cuter, si la m�me condition est fausse
+	Utilisez if pour sp�cifier un bloc de code � ex�cuter, si une condition sp�cifi�e est vraie
+	Utilisez else pour sp�cifier un bloc de code � ex�cuter, si la m�me condition est fausse
 	Utilisez else if pour sp�cifier une nouvelle condition � tester, si la premi�re condition est fausse
 	Utilisez switch pour sp�cifier de nombreux blocs de code alternatifs � ex�cuter 
 	
